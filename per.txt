@@ -1,0 +1,145 @@
+Plan 1:
+Cities: Prag (Czech) - 1 day, Amsterdam (Netherlands) - 2.5 days, Cagliari (Italy) - 1 day, Malta (Malta) - 2 days, Catania (Italy) - 1 day, Marseille (France) - 1.5 days, Mallorca (Spain) - 1.5 days, Valencia (Spain) - 1 day, Barcelona (Spain) - 1 day
+Price for flight per person - 182.7 Euro
+Kms travel by own car - 600km
+17.6 (Sat) Nuremberg to Prag one day trip via own car (O6.00 am to 9.00 am, 17.00 pm to 20.00 pm)
+18.6 (Sun) at 6'o clock to Amsterdam at 13'o clock via own car
+20.6 (Tue) from Amsterdam from 15'o clock to Home at 20'o clock in Home
+21.6 (Wed) from Nuremberg from 7'o clock to Cagliari (Wed) at 9.00'o clock. Flight price - 37.21 Euro
+22.6 (Thu) from Cagliari from 8.35'o clock to Malta (Thu) at 9.50 'o clock. Flight price - 14.99 Euro
+24.6 (Sat) from Malta from 6.00'o clock to Catania at 6.45 'o clock. Flight price - 15.39 Euro
+25.6 (Sun) from Catania from 12.20'o clocl to Marseille (Sun) at 14.25 'o clock. Flight price - 30.35 Euro
+26.6 (Tue) from Marseille from 22.30 'o clock to Mallorca (Tue) at 23.40 'o clock. Flight price - 19.99 Euro
+28.6 (Thu) from Mallorca from 13.00 pm to Valencia (Thu) at 14.00 pm 'o clock. Flight price - 18.03 Euro
+29.6 (Fri) Valencia (at 16 'o clock) to Barcelona (at 19 'o clock) via rented car
+1.7 (Sat) from Barcelona from 6.20 am to Nuremberg (Sat) at 8.15 'o clock. Flight price - 46.74 Euro
+
+
+Plan 2:
+Cities: Prag (Czech) - 1 day, Amsterdam (Netherlands) - 2.5 days, Cagliari (Italy) - 1 day, Malta (Malta) - 2.5 days, Barcelona (Spain) - 1.5 days, Valencia (Spain) - 1.5 days, Mallorca (Spain) - 2 days
+Price for flight per person - 221.56 Euro
+Kms travel by own car - 600km
+17.6 (Sat) Nuremberg to Prag one day trip via own car (O6.00 am to 9.00 am, 17.00 pm to 20.00 pm)
+18.6 (Sun) Nuremberg to Amsterdam via own car starting at 6 'o clock to Amsterdam reach at 13 'o clock
+20.6 (Tue) from Amsterdam from 15 'o clock to Home at 20 'o clock in Home
+21.6 (Wed) from Nuremberg from 7 'o clock to Cagliari (Wed) at 9.00 'o clock. Flight price - 37.21 Euro
+22.6 (Thu) from Cagliari from 8.35 'o clock to Malta (Thu) at 9.50 'o clock. Flight price - 14.99 Euro
+24.6 (Sat) from Malta from 22.15 'o clock to Barcelona (Sun) at 00.30 'o clock. Flight price - 66.35 Euro
+26.6 (Mon) Barcelona from 17 'o clock to Valencia (Mon) until 20 'o clock via rental car
+28.6 (Wed) Valencia from 14.35 'o clock to Mallorca 15.35 'o clock. Flight price - 18.72 Euro
+30.6 (Fri) Mallorca from 18.45 'o clock to Nuremberg 21.00 'o clock. Flight price - 84.29 Euro
+
+
+Plan 3:
+Cities: Prag (Czech) - 1 day, Barcelona (Spain) - 1.5 days, Valencia (Spain) - 1.5 days, Mallorca (Spain) - 2 days, Amsterdam (Netherlands) - 2 days, Hamburg (Germany) - 1 day, Copenhagen (Denmark) - 1.5 days, Berlin (Germany) - 1 day
+Price for flight per person - 108.89 Euro
+Kms travel by own car - 3600km
+17.6 (Sat) Nuremberg to Prag one day trip via own car (O6.00 am to 9.00 am, 17.00 pm to 20.00 pm)
+18.6 (Sun) Nuremberg (10.40'o clock) to Barcelona Girona (12.35'o clock). Flight price - 28.74 Euro
+19.6 (Mon) Barcelona (16.00'o clock) to Valencia (20.00'o clock). Travel via rental car
+21.6 (Wed) Valencia (14.35'o clock) to Mallorca (15.35'o clock). Flight price - 18.72 Euro
+23.6 (Fri) Mallorca (18.45'o clock) to Nuremberg (21.00'o clock). Flight price - 61.43 Euro
+24.6 (Sat) Nuremberg to Amsterdam via own car starting at 6 'o clock, reach in Amsterdam at 13 'o clock
+24.6 (Sat) Stay from 14 'o clock until 26.6 (Tue) at 14 'o clock in Amsterdam
+26.6 (Mon) Amsterdam to Hamburg via own car starting at 14.30'0 clock, reach in Hamburg at 19.00'o clock
+27.6 (Tue) Hamburg to Copenhagen via own car starting at 15.30'o clock, reach in Copenhagen at 20.00'o clock
+29.6 (Thu) Copenhagen to Berlin via own car starting at 14.30'o clock, reach in Berlin at 21.00'o clock
+1.6 (Sat) Berlin to Home via own car starting at 6'o clock, reach in Nuremberg at 11'o clock
+
+
+Plan 4:
+Cities: Prag (Czech) - 1 day, Barcelona (Spain) - 1.5 days, Valencia (Spain) - 1.5 days, Mallorca (Spain) - 2 days, Copenhagen (Denmark) - 3 days, Amsterdam (Netherlands) - 2 days, Brussels (Belgium) - 1 day
+Price for flight per person - 154.88 Euro
+Kms travel by own car - 2400km
+17.6 (Sat) Nuremberg to Prag one day trip via own car (O6.00 am to 9.00 am, 17.00 pm to 20.00 pm)
+18.6 (Sun) Nuremberg (10.40'o clock) to Barcelona Girona (12.35'o clock). Flight price - 28.74 Euro
+19.6 (Mon) Barcelona (16.00'o clock) to Valencia (20.00'o clock). Travel via rental car
+21.6 (Wed) Valencia (14.35'o clock) to Mallorca (15.35'o clock). Flight price - 18.72 Euro
+23.6 (Fri) Mallorca (18.45'o clock) to Nuremberg (21.00'o clock). Flight price - 61.43 Euro
+24.6 (Sat) Nuremberg to Dusseldorf Airport via own car starting at 6 'o clock, reach in Dusseldorf Airport at 12 'o clock
+24.6 (Sat) Dusseldorf Airport (14.40'o clock) to Copenhagen (16.05'o clock). Flight price - 24.99 Euro
+27.6 (Tue) Copenhagen (21.10'o clock) to Dusseldorf (22.35'o clock). Flight price - 21 Euro
+28.6 (Wed) Dusseldorf to Amsterdam via own car starting at 8'o clock, reach in Amsterdam at 10'o clock
+30.6 (Fri) Amsterdam to Brussels via own car starting at 8'o clock, reach in Brussels at 10.30'o clock
+1.6 (Sat) Brussels to Home via own car starting at 6'o clock, reach in Nuremberg at 13'o clock
+
+
+Plan 5:
+Cities: Thessaloniki (Greece) - 1.5 days, Malta(Malta) - 2.5 days, Zader, Zagreb (Croatia) - 2.5 days, Prag (Czech) - 1 day, Valencia (Spain) - 2 days, Mallorca (Spain) - 2 days
+Price for flight per person - 288.59 Euro
+Kms travel by own car - 600km
+17.6 (Sat) Nuremberg (10.35'o clock) to Thessaloniki (13.45'o clock). Flight price - 39.27 Euro
+18.6 (Sun) Thessaloniki (21.50'o clock) to Malta (22.30'o clock). Flight price - 21.99 Euro
+21.6 (Wed) Malta (14.30'o clock) to Zagreb (16.20'o clock). Flight price - 41.03 Euro
+Zagreb to Zadar via rental car / Public Transport
+24.6 (Sat) Zadar (22.45'o clock) to Nuremberg (00:10'o clock). Flight price - 32.29 Euro
+25.6 (Tue) Nuremberg to Prag one day trip via own car (O6.00 am to 9.00 am, 17.00 pm to 20.00 pm)
+26.6 Nuremberg (9.40'o clock) to Valencia (12.05'o clock). Flight price - 51 Euro
+28.6 Valencia (14.35'o clock) to Mallorca (15.35'o clock). Flight price - 18.72 Euro
+30.6 Mallorca (18.45'o clock) to Nuremberg (21.00'o clock). Flight price - 84.29 Euro
+
+
+Plan 6:
+Cities: Prag (Czech) - 1 day, Barcelona (Spain) - 1.5 days, Valencia (Spain) - 1.5 days, Mallorca (Spain) - 2 days, Zurich (Switzerland)- 1 day, Lucerne (Switzerland)- 1 day, Innsbruch (Austria) - 1 day, Amsterdam (Netherlands) - 1.5 days, Brussels (Belgium) - 1 day
+Price for flight per person - 108.89 Euro
+Kms travel by own car - 3100km
+17.6 (Sat) Nuremberg to Prag one day trip via own car (O6.00 am to 9.00 am, 17.00 pm to 20.00 pm)
+18.6 (Sun) Nuremberg (10.40'o clock) to Barcelona Girona (12.35'o clock). Flight price - 28.74 Euro
+19.6 (Mon) Barcelona (16.00'o clock) to Valencia (20.00'o clock). Travel via rental car
+21.6 (Wed) Valencia (14.35'o clock) to Mallorca (15.35'o clock). Flight price - 18.72 Euro
+23.6 (Fri) Mallorca (18.45'o clock) to Nuremberg (21.00'o clock). Flight price - 61.43 Euro
+24.6 (Sat) Nuremberg to Zurich via own car starting at 6'o clock, reach in Zurich at 11'o clock
+25.6 (Sun) Zurich to Lucerne via own car starting at 11'o clock, reach in Lucerne at 11.40'o clock
+26.6 (Mon) Lucerne to Innsbruck via own car starting at 11'o clock, reach in Innsbruck at 15'o clock
+27.6 (Tue) Innsbruck to Home via own car starting at 16.30'o clock, reach in Nuremberg at 20'o clock
+28.6 (Wed) Nuremberg to Amsterdam via own car starting at 6 'o clock to Amsterdam reach at 13 'o clock
+30.6 (Fri) Stay from 14 'o clock until 20.6 (Tue) at 14 'o clock in Amsterdam
+30.6 (Fri) Amsterdam to Brussels via own car starting at 7'o clock, reach in Brussels at 9.30'o clock
+1.6 (Sat) Brussels to Home via own car starting at 5'o clock, reach in Nuremberg at 12'o clock
+
+
+Plan 7:
+Cities: Prag (Czech) - 1 day, Barcelona (Spain) - 1.5 days, Valencia (Spain) - 1.5 days, Mallorca (Spain) - 2 days, Zurich (Switzerland)- 1 day, Innsbruch (Austria) - 1 day, Amsterdam (Netherlands) - 2 days, Brussels (Belgium) - 1.5 days
+Price for flight per person - 108.89 Euro
+Kms travel by own car - 3000km
+17.6 (Sat) Nuremberg to Prag one day trip via own car (O6.00 am to 9.00 am, 17.00 pm to 20.00 pm)
+18.6 (Sun) Nuremberg (10.40'o clock) to Barcelona Girona (12.35'o clock). Flight price - 28.74 Euro
+19.6 (Mon) Barcelona (16.00'o clock) to Valencia (20.00'o clock). Travel via rental car
+21.6 (Wed) Valencia (14.35'o clock) to Mallorca (15.35'o clock). Flight price - 18.72 Euro
+23.6 (Fri) Mallorca (18.45'o clock) to Nuremberg (21.00'o clock). Flight price - 61.43 Euro
+24.6 (Sat) Nuremberg to Zurich via own car starting at 6'o clock, reach in Zurich at 11'o clock
+25.6 (Sun) Zurich to Innsbruck via own car starting at 12'o clock, reach in Innsbruck at 15.30'o clock
+26.6 (Mon) Innsbruck to Home via own car starting at 16.30'o clock, reach in Nuremberg at 20'o clock
+27.6 (Tue) Nuremberg to Amsterdam via own car starting at 6 'o clock to Amsterdam reach at 13 'o clock
+29.6 (Thu) Amsterdam to Brussels via own car starting at 13'o clock, reach in Brussels at 15.30'o clock
+1.6 (Sat) Brussels to Home via own car starting at 5'o clock, reach in Nuremberg at 12'o clock
+
+
+Plan 8:
+Cities: Prag (Czech) - 1 day, Amsterdam (Netherlands) - 2.5 days, Cagliari (Italy) - 1 day, Malta (Malta) - 3.5 days, Valencia (Spain) - 2 days, Mallorca (Spain) - 2 days, Barcelona (Spain) - 1 day
+Price for flight per person - 188.82 Euro
+Kms travel by own car - 2100km
+17.6 (Sat) Nuremberg to Prag one day trip via own car (O6.00 am to 9.00 am, 17.00 pm to 20.00 pm)
+18.6 (Sun) at 6'o clock to Amsterdam at 13'o clock via own car
+20.6 (Tue) Amsterdam from 15'o clock to Home at 20'o clock in Home
+21.6 (Wed) Nuremberg from 7'o clock to Cagliari (Wed) at 9.00'o clock. Flight price - 37.21 Euro
+22.6 (Thu) Cagliari from 8.35'o clock to Malta (Thu) at 9.50 'o clock. Flight price - 14.99 Euro
+25.6 (Sun) Malta from 19.45'o clock to Valencia at 22.05 'o clock. Flight price - 40.49 Euro
+27.6 (Tue) Valencia from 16.10'o clock to Mallorca at 17.10'o clock. Fligt price - 18.72 Euro
+29.6 (Thu) Mallorca from 17.25'o clock to Barcelona at 18.20'o clock. Flight price - 30.67 Euro
+1.7 (Sat) from Barcelona from 6.20 am to Nuremberg (Sat) at 8.15 'o clock. Flight price - 46.74 Euro
+
+
+Plan 9:
+Cities: Prag (Czech) - 1 day, Amsterdam (Netherlands) - 2.5 days, Brussels (Belgium) - 1 day, Malta (Malta) - 3 days, Valencia (Spain) - 2 days, Mallorca (Spain) - 2 days, Barcelona (Spain) - 1 day
+Price for flight per person - 194.62 Euro
+Kms travel by own car - 2400km
+17.6 (Sat) Nuremberg to Prag one day trip via own car (O6.00 am to 9.00 am, 17.00 pm to 20.00 pm)
+18.6 (Sun) at 6'o clock to Amsterdam at 13'o clock via own car
+20.6 (Tue) Amsterdam from 15'o clock to Brussels at 17.30'o clock in Home
+21.6 (Wed) Brussels from 15'o clock to Home at 22'o clock via own car
+22.6 (Thu) Nuremberg from 14'o clock to Malta at 19.30 'o clock. Flight price - 58 Euro
+25.6 (Sun) Malta from 19.45'o clock to Valencia at 22.05 'o clock. Flight price - 40.49 Euro
+27.6 (Tue) Valencia from 16.10'o clock to Mallorca at 17.10'o clock. Fligt price - 18.72 Euro
+29.6 (Thu) Mallorca from 17.25'o clock to Barcelona at 18.20'o clock. Flight price - 30.67 Euro
+1.7 (Sat) from Barcelona from 6.20 am to Nuremberg (Sat) at 8.15 'o clock. Flight price - 46.74 Euro
